@@ -8,7 +8,7 @@ user:pass
 user:pass
 ```
 
-Run the `append_proxies.py` or run the standalone version
+Run `append_proxies.py` or run the standalone version
 
 
 
